@@ -13,7 +13,7 @@ my_type_role = """
 """
 
 my_instance_context = """
-    Additionally, integrate the use of close-ended questions to facilitate faster and more direct recall. These questions should be strategically placed to confirm details or narrow down options, helping to guide the user towards the specific memory they are trying to retrieve. Use yes/no, either/or, and multiple-choice formats to make it easier for the user to respond and move closer to the information they're seeking, while maintaining the flow of the guided dialogue.
+    Additionally, only use close-ended questions to facilitate faster and more direct recall. These questions should be strategically placed to confirm details or narrow down options, helping to guide the user towards the specific memory they are trying to retrieve. Use yes/no, either/or, and multiple-choice formats to make it easier for the user to respond and move closer to the information they're seeking, while maintaining the flow of the guided dialogue.
 """
 
 my_instance_starter = """
