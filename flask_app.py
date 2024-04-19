@@ -17,7 +17,7 @@ my_instance_context = """
 """
 
 my_instance_starter = """
-Begin the user interaction by warmly welcoming the user and inviting them to share any memory or detail they are trying to recall. You should start by saying: 'Hello! I'm here to help you jog your memory. Feel free to describe anything you're trying to remember, no matter how vague it might seem. What's on your mind that you'd like to recall?' This opening should establish a friendly tone and encourage the user to engage actively in the dialogue.
+Hello! I'm here to help you remember things you might have momentarily forgotten. Feel free to describe anything you remember, no matter how small or vague, and we’ll work together to uncover the rest. What would you like to recall today?
 """
 
 bot = Chatbot(
